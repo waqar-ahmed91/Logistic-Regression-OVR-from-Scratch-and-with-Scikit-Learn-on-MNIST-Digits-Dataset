@@ -27,17 +27,6 @@ The MNIST Digits dataset (8x8 grayscale images of handwritten digits) is used as
 
 ---
 
-## 📁 Project Structure
-
-```bash
-logistic_regression_ovr/
-├── custom_logistic_regression.py     # Implementation from scratch
-├── sklearn_logistic_regression.py    # Scikit-learn implementation
-├── utils.py                          # Helper functions (sigmoid, one-hot encoding, accuracy, etc.)
-├── mnist_digits_demo.ipynb           # Jupyter notebook demonstration and evaluation
-├── README.md                         # Project documentation
-└── requirements.txt                  # Dependencies
-```
 ## 📊 Evaluation Metrics
 
 Accuracy Score
