@@ -28,32 +28,34 @@ The MNIST Digits dataset (8x8 grayscale images of handwritten digits) is used as
 ---
 
 ## 📊 Evaluation Metrics
-
+```
 Accuracy Score
 Classification Report
 Confusion Matrix (optional)
-
+```
 ## ✅ Results Summary
-
+```
 Implementation	Accuracy
 From Scratch (OVR)	~X.XX%
 Scikit-learn (OVR)	~X.XX%
-
+```
 Note: Results may vary slightly depending on learning rate, number of iterations, and regularization.
 
 ## 🛠️ Tools and Libraries
-
+```
 Python 3.x
 NumPy
 Scikit-learn
 Matplotlib (optional for visualization)
 Jupyter Notebook
-
+```
 ## 📌 Future Improvements
+```
 Add regularization (L1/L2) in the scratch version.
 Compare with other multi-class strategies like One-vs-One.
-
+```
 ## 👤 Author
+```
 Waqar Ahmed
 GitHub: @waqar-ahmed91
-
+```
