@@ -23,7 +23,7 @@ The MNIST Digits dataset (8x8 grayscale images of handwritten digits) is used as
 - **Logistic Regression:** A supervised learning algorithm used for binary classification, extended here to multi-class using OVR.
 - **One-vs-Rest (OvR):** For multi-class problems, trains one binary classifier per class.
 - **Gradient Descent:** Optimization technique used to minimize the loss function in the custom implementation.
-- **MNIST Digits Dataset:** A simpler version of the original MNIST dataset (images of size 8x8 instead of 28x28), included in `sklearn.datasets`.
+- **MNIST Digits Dataset:** A simpler version of the original MNIST dataset (28x28), included in `sklearn.datasets`.
 
 ---
 
