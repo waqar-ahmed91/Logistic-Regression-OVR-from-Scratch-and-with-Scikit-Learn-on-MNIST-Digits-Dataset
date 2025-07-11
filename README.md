@@ -36,8 +36,8 @@ Confusion Matrix (optional)
 ## ✅ Results Summary
 ```
 Implementation	Accuracy
-From Scratch (OVR)	~X.XX%
-Scikit-learn (OVR)	~X.XX%
+From Scratch (OVR)	~85%
+Scikit-learn (OVR)	~94%
 ```
 Note: Results may vary slightly depending on learning rate, number of iterations, and regularization.
 
