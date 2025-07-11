@@ -5,7 +5,7 @@ This project demonstrates the implementation of **Logistic Regression** for mult
 - A custom logistic regression model built from **scratch** using NumPy.
 - A comparative implementation using **Scikit-Learn**'s `LogisticRegression`.
 
-The MNIST Digits dataset (8x8 grayscale images of handwritten digits) is used as the benchmark for evaluating both implementations.
+The MNIST Digits dataset (28x28 grayscale images of handwritten digits) is used as the benchmark for evaluating both implementations.
 
 ---
 
